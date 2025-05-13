@@ -3,7 +3,7 @@ That Repo created to help others to use their own basic one page cv
 
 # M. Çağrı Özkan – Data Science Portfolio Website
 
-This repository contains the source code for my personal portfolio website, designed to showcase my professional background, technical skills, and selected data science projects.
+This repository contains the source code for portfolio website, designed to showcase any professional background, technical skills, and selected projects.
 
 ---
 
@@ -25,4 +25,34 @@ This repository contains the source code for my personal portfolio website, desi
 ---
 
 ## 🗂 Folder Structure
+- 📁 images/ → icons, project preview images, and logos
+- 📁 projects/ → downloadable .rar files of each project
+- 📁 documents/ → CV & Resume PDF files
+- 📄 index.html → main homepage
+- 📄 all_projects.html → extended project archive
+- 📄 README.md → project documentation
 
+
+---
+
+## 🚀 Hosting & Deployment
+
+The site is deployed using **Netlify**, connected with a custom domain:  
+🌐 [mcozkan.com](https://mcozkan.com)
+
+> 💡 `index.html` is the homepage. Other pages like `all_projects.html` should be accessible via direct link or navigation.
+
+---
+
+## 📄 License
+
+This project is for personal branding and portfolio purposes. Please do not reproduce or copy without permission.
+
+---
+
+## 🙌 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/muratcagriozkan/)
+- [GitHub](https://github.com/mcozkan)
+- [Kaggle](https://www.kaggle.com/muratarizkan)
+- [Medium](https://medium.com/@mcozkan.ds)
